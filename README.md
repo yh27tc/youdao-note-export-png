@@ -5,10 +5,14 @@
 
 于是我从网上扒拉了别人写的代码（2019年最后更新），并且加以修正，形成了这个插件
 
+基础项目地址：https://github.com/niklasvh/html2canvas
+
 1. 有道云笔记全屏插件(本仓库插件)
 2. Full Page Screen Capture(用于chrome截长屏,且适用于iframe内的页面截图，牛逼)
 
-使用过程详细:
+<span color="red">2021-09-14 添加直接下载使用，可以在编辑模式下直接下载</span>
+
+预览下使用过程详细:
 
 1.打开chrome，点击右上角三个点，选择 更多工具->扩展程序
 
